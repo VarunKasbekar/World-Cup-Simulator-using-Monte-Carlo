@@ -1,6 +1,6 @@
 # Title: FIFA World Cup Simulator
 
-## Team Member(s): Hiral Rayani, Varun Kasbekar
+## Team Member(s): Varun Kasbekar, Hiral Rayani 
 
 # Monte Carlo Simulation Scenario & Purpose:
 
